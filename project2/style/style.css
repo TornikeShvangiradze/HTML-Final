@@ -450,6 +450,15 @@ iframe{
     background-size: 100%;
 }
 
+.owlCarousel{
+    width: 1224px;
+    margin: 0 auto;
+}
+
+.owlCarousel .item{
+    border-radius: 8px;
+}
+
 /* FAQ */
 
 .faq-heading{
@@ -655,3 +664,4 @@ iframe{
         width: 100%;
     }
 }
+
